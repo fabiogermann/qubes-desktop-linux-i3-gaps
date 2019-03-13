@@ -2,7 +2,7 @@
 # Common Makefile for building RPMs
 #
 
-SPECFILE := i3.spec
+SPECFILE := i3-gaps.spec
 
 WORKDIR := $(CURDIR)
 SPECDIR ?= $(WORKDIR)

@@ -1,10 +1,10 @@
 Name:           i3
-Version:        4.16
-Release:        8%{?dist}
+Version:        4.16.1
+Release:        1%{?dist}
 Epoch:          1000
 Summary:        Improved tiling window manager
 License:        BSD
-URL:            https://i3wm.org
+URL:            https://github.com/Airblader/i3
 Source0:        https://i3wm.org/downloads/%{name}-%{version}.tar.bz2
 Source1:        %{name}-logo.svg
 Patch0:         0001-Show-qubes-domain-in-configurable-colored-borders.patch
